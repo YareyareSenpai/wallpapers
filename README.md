@@ -3,6 +3,17 @@
 Personal wallpaper bank — static and animated.  
 Full collection stored on Mega. This repo is an index only.
 
+## Teasers
+
+**Static**
+![Static teaser](__original_drawn_by_vikiye__59e227bae545a3074f8fb4128065a4d4.jpg)
+
+**Animated**
+
+https://github.com/YareyareSenpai/wallpapers/raw/main/Girl%20in%20green%20swamp.mp4
+
+---
+
 ## Download
 
 | Folder | Link |
