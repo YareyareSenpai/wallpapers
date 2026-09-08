@@ -6,11 +6,11 @@ Full collection stored on Mega. This repo is an index only.
 ## Teasers
 
 **Static**
-![Static teaser](__original_drawn_by_vikiye__59e227bae545a3074f8fb4128065a4d4.jpg)
+![Static teaser](1788857375825___original_drawn_by_tu_er_tm__1b1fabdc9969afff10e57a00bd8be84e.jpg)
 
 **Animated**
 
-https://github.com/YareyareSenpai/wallpapers/raw/main/Girl%20in%20green%20swamp.mp4
+https://github.com/YareyareSenpai/wallpapers/raw/main/girl-in-green-swamp.mp4
 
 ---
 
