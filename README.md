@@ -6,11 +6,12 @@ Full collection stored on Mega. This repo is an index only.
 ## Teasers
 
 **Static**
+
 ![Static teaser](static-teaser.jpg)
 
-**Animated**
+**Animated** *(click to play)*
 
-<video src="animated-teaser.mp4" width="100%" controls autoplay loop muted></video>
+[![Animated teaser](static-teaser.jpg)](animated-teaser.mp4)
 
 ---
 
