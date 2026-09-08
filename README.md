@@ -1,16 +1,23 @@
-# Wallpapers
+# Wall-Bank
 
 Personal wallpaper bank — static and animated.  
-Full collection stored on Google Drive. This repo is an index only.
+Full collection stored on Mega. This repo is an index only.
+
+## Download
+
+| Folder | Link |
+|--------|------|
+| 🎬 Animated Desktop Wallpapers | [mega.nz](https://mega.nz/folder/WjRinaIB#EyezmUuK6ovzQCyc5aYpHw) |
+| 🖼️ Static Desktop Wallpapers | [mega.nz](https://mega.nz/folder/KmBzzbBC#SuXzES4Dr7iKN_OLYmXkog) |
 
 ---
 
 ## Structure
 
 ```
-~/Pictures/Wallpapers/
-├── Animated/   # .mp4 live wallpapers
-└── *.png / *.jpg / *.jpeg   # static wallpapers
+Wall-Bank/
+├── Animated-Desktop-Wallpapers/   # .mp4 live wallpapers
+└── Static-Desktop-Wallpapers/     # .png / .jpg / .jpeg
 ```
 
 ---
@@ -471,4 +478,4 @@ Full collection stored on Google Drive. This repo is an index only.
 
 ---
 
-> Full collection (including animated) stored on Google Drive.
+> Full collection stored on Mega — see download links above.
