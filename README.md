@@ -9,10 +9,6 @@ Full collection stored on Mega. This repo is an index only.
 
 ![Static teaser](static-teaser.jpg)
 
-**Animated** *(click to play)*
-
-[![Animated teaser](static-teaser.jpg)](animated-teaser.mp4)
-
 ---
 
 ## Download
